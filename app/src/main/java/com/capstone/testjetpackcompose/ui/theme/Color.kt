@@ -10,8 +10,6 @@ val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 
-val Purple700 = Color(0xFF3700B3)
-val Teal200 = Color(0xFF03DAC5)
 val LightBlue = Color(0xFFD7EFFE)
 val Navy = Color(0xFF073042)
 val Chartreuse = Color(0xFFEFF7CF)
